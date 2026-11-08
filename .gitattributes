@@ -1,0 +1,2 @@
+# Banners are built by .github/banner/build.py; collapse their diffs in PRs
+assets/*.svg linguist-generated=true
